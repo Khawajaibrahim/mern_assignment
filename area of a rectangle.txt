@@ -1,0 +1,27 @@
+
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+
+// program to check if the string is palindrome or not
+
+function calculateArea(a,b) {
+
+var area = a*b;
+    // loop through half of the string
+  
+    return area;
+}
+
+// take input
+
+
+const a = prompt('Enter a length of a Rectangle: ');
+var length= parseInt(a);
+const b = prompt('Enter a width of a Rectangle: ');
+var width= parseInt(b);
+
+
+// call the function
+const value = calculateArea(length,width);
+
+console.log("\nArea of a Rectange is "+ value);
